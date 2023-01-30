@@ -1,0 +1,9 @@
+C:\wamp64\www\BD\estagio\treinar\bin\Debug\treinar.exe.config
+C:\wamp64\www\BD\estagio\treinar\bin\Debug\treinar.exe
+C:\wamp64\www\BD\estagio\treinar\bin\Debug\treinar.pdb
+C:\wamp64\www\BD\estagio\treinar\obj\Debug\treinar.Form1.resources
+C:\wamp64\www\BD\estagio\treinar\obj\Debug\treinar.Properties.Resources.resources
+C:\wamp64\www\BD\estagio\treinar\obj\Debug\treinar.csproj.GenerateResource.cache
+C:\wamp64\www\BD\estagio\treinar\obj\Debug\treinar.csproj.CoreCompileInputs.cache
+C:\wamp64\www\BD\estagio\treinar\obj\Debug\treinar.exe
+C:\wamp64\www\BD\estagio\treinar\obj\Debug\treinar.pdb
